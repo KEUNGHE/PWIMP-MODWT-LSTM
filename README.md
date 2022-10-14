@@ -1,1 +1,1 @@
-# Source code of article "A novel coupling preprocessing approach for handling missing data in water quality prediction"
+# Please read the "read me.docx" file in the zip file package before reproducing the experiment.
